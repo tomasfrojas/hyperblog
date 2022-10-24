@@ -42,3 +42,10 @@ body {
   background: white;
   padding: 1em;
 }
+
+#footer {
+  color: #152da5;
+  text-align: left;
+  font-weight: bold;
+  padding: 1em;
+}
